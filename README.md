@@ -69,7 +69,18 @@
 
 ## 📸 Screenshots
 
+### Chrome Extensions List
+![Chrome Extensions 1](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/1_Chrome%20Extensions.png)
+![Chrome Extensions 2](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/2_Chrome%20Extensions.png)
 
+### Bitwarden Password Manager Details
+![Bitwarden 1](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/3_Bitwarden%20Password%20Manager.png)
+![Bitwarden 2](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/4_Bitwarden%20Password%20Manager.png)
+![Bitwarden 3](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/5_Bitwarden%20Password%20Manager.png)
+
+### FoxyProxy Extension
+![FoxyProxy 1](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/6_FoxyProxy.png)
+![FoxyProxy 2](https://github.com/Rushikesh38-bit/TASK-NO-7-Identify-and-Remove-Suspicious-Browser-Extensions/blob/main/7_FoxyProxy.png)
 
 ---
 
@@ -79,5 +90,23 @@
 - Permissions like “read all site data” or “clipboard access” must be reviewed.
 - Only install extensions from trusted sources with good reviews.
 - Regularly audit and remove unused or suspicious extensions.
+
+---
+
+## 💡 Recommendations
+
+* Review extensions monthly
+* Install only from trusted sources
+* Check permissions before adding
+* Remove unused extensions immediately
+* Stay updated on browser security practices
+
+---
+
+## 📚 References
+
+* [Google Chrome Extension Safety Tips](https://support.google.com/chrome_webstore/answer/2664769)
+* [How to Check Browser Extension Permissions](https://developer.chrome.com/docs/extensions/mv3/permissions/)
+* [Mozilla Add-ons Review Guidelines](https://extensionworkshop.com/documentation/publish/add-on-review-process/)
 
 ---
