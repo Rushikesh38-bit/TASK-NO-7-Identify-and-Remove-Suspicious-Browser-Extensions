@@ -32,13 +32,6 @@
 
 ---
 
-### ✅ GoFullPage – Full Page Screen Capture
-- **Status:** Kept  
-- **Permissions:** Capture tab content  
-- **Verdict:** Trusted tool with 9M+ users, helpful for full-page screenshots  
-
----
-
 ### ✅ Google Docs Offline
 - **Status:** Kept  
 - **Permissions:** Access Google Docs files offline  
